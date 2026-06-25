@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /ai-internal-portal-v2/
+Disallow: /backup/
+Disallow: /config/
+Disallow: /db/
